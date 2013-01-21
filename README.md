@@ -19,3 +19,4 @@ This software licensed under the [Open Software License v3.0](http://www.opensou
 In order to run, this software requires the following dependencies:
 
 * [Python 3.3](http://www.python.org/getit/releases/3.3.0/)
+* [Beautiful Soup 4](http://www.crummy.com/software/BeautifulSoup/#Download)
